@@ -1,0 +1,129 @@
+@CHARSET "UTF-8";
+.content {
+    padding-bottom: 16px;
+}
+.w-main {
+    width: 980px;
+    color: rgb(51, 51, 51);
+    background: rgb(255, 255, 255);
+    margin: 0px auto;
+    padding: 20px 0px;
+    font: 500 14px/1.42857 'microsoft yahei', 微软雅黑, simsun, 宋体, Arial, sans-serif;
+}
+.w-main-ul {
+    width: 900px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.w-main-ul h2 {
+    border-bottom: #ccc 1px dashed;
+    color: #328aa4;
+    height: 60px;
+    font: 500 24px/60px "microsoft yahei";
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+.w-main-ul .infolist {
+    width: 950px;
+    overflow: hidden;
+    zoom: 1;
+}
+.w-main-ul .infolist li {
+    float: left;
+    display: inline;
+    margin-right: 50px;
+    padding: 5px 0;
+    vertical-align: bottom;
+}
+.daline {
+    border-bottom: #ccc 1px dashed;
+    padding-bottom: 10px;
+}
+.w-main-box {
+    width: 960px;
+    margin: 0 auto;
+}
+.w-main-box .infofrom {
+    width: 900px;
+    height: 40px;
+    line-height: 40px;
+    margin: 0 auto;
+    text-align: right;
+}
+.w-main-box .sdline, .sdline {
+    background: url(../images/sdline.gif) no-repeat;
+    width: 900px;
+    height: 25px;
+    margin: 0 auto;
+}
+.w-main-table table {
+    border-collapse: collapse;
+    margin-top: 10px;
+    font-family: "microsoft yahei";
+    width: 94%;
+    margin-left: 40px;
+}
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+.w-main-ul h2 {
+    border-bottom: #ccc 1px dashed;
+    color: #328aa4;
+    height: 60px;
+    font: 500 24px/60px "microsoft yahei";
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+.wuliuinfo {
+    width: 900px;
+    overflow: hidden;
+    padding-bottom: 25px;
+    border-bottom: 1px solid #eee;
+    clear: both;
+    margin-bottom: 15px;
+    padding-top: 10px;
+}
+.wlmark {
+    float: left;
+    width: 70px;
+    text-align: justify;
+}
+.wlmark-c {
+    width: 806px;
+    border: 1px solid #ddd;
+    background: #fafafa;
+    padding: 10px;
+    float: right;
+}
+p.handler {
+    text-align: right;
+}
+.w-main-table table thead tr td {
+    text-align: center;
+    background: #328aa4;
+    color: #fff;
+    height: 50px;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+.w-main-table table tbody tr td {
+    background: #e5f1f4;
+    color: #666;
+    
+}
+.w-main-box .sdline, .sdline {
+    background: url(../images/sdline.gif) no-repeat;
+    width: 900px;
+    height: 25px;
+    margin: 0 auto;
+}
